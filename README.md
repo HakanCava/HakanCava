@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakancava&label=Profile%20views&color=0e75b6&style=flat" alt="hakancava" /> </p>
 
-- 🔭 I’m currently working on **StockApp**
+- 🔭 I’m currently working on **StockApp1**
 
 - 🌱 I’m currently learning **NextJS/ReactNative/Python-Django**
 
