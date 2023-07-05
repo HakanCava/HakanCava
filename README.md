@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Cava</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 <img align="right" alt="Coding width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakancava&label=Profile%20views&color=0e75b6&style=flat" alt="hakancava" /> </p>
