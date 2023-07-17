@@ -52,6 +52,19 @@
 </div>
 
 
+<h2 align="center">My Projects</h2>
+
+###
+
+Project Links       |What I use  |Project Overview   
+:-------------------------|---------------------|------------------
+[Stock App]() <h3>[Repo](https://github.com/HakanCava/stockApp/tree/main)</h3>| React - MUI - Redux Toolkit - Redux Persist - Custom Hooks - React Router Dom - Formik - Yup - Toastify | ![Alt text](stockapp-gif.gif)
+[Blog App](https://main--myblogpagereact.netlify.app/) <h3>[Repo](https://github.com/HakanCava/blogPageWithReact)</h3>| React - MUI - Redux Toolkit - Redux Persist - Axios - Custom Hooks - React Router Dom - Formik - Yup - Toastify |![Alt text](blogapp-gif.gif)
+[FilterPage App](https://filterhcava.netlify.app/) <h3>[Repo](https://github.com/HakanCava/FilterPage/tree/main)</h3>| React - MUI - Context Api - Custom Components - React Router Dom - DayJs - Toastify | ![Alt text](filterpage.png)
+[ReactNative Store App]() <h3>[Repo](https://github.com/HakanCava/react-native-storeApp)</h3>| React Native - Custom Components -   | ![Alt text](patikastore.png)
+[Movie App](https://movie-app-project-theta.vercel.app/) <h3>[Repo](https://github.com/HakanCava/movieAppProject)</h3>| React - Tailwind - Context Api - Custom Hooks - React Router Dom - Axios - Firebase - Toastify | ![Alt text](movieapp-gif.gif)
+
+
 
 <div align="center">
  <h2 align="center"> 📊 GitHub Stats: </h2>
