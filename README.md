@@ -58,6 +58,7 @@
 
 Project Links       |What I use  |Project Overview   
 :-------------------------|---------------------|------------------
+[E-Commerce](https://mybazaarcava.netlify.app/) <h3>[Repo](https://github.com/HakanCava/e_commerce)</h3>| NodeJS - ExpressJS - MongoDB - JsonWebToken - React - MUI Icons - Styled Components - Axios - Redux Toolkit - React-Redux - Redux Persist - Stripe - CryptoJS - Custom Hooks - React Router Dom - Toastify | ![Alt text](e-commerce-gif.gif)
 [Stock App]() <h3>[Repo](https://github.com/HakanCava/stockApp/tree/main)</h3>| React - MUI - Redux Toolkit - Redux Persist - Custom Hooks - React Router Dom - Formik - Yup - Toastify | ![Alt text](stockapp-gif.gif)
 [Blog App](https://main--myblogpagereact.netlify.app/) <h3>[Repo](https://github.com/HakanCava/blogPageWithReact)</h3>| React - MUI - Redux Toolkit - Redux Persist - Axios - Custom Hooks - React Router Dom - Formik - Yup - Toastify |![Alt text](blogapp-gif.gif)
 [FilterPage App](https://filterhcava.netlify.app/) <h3>[Repo](https://github.com/HakanCava/FilterPage/tree/main)</h3>| React - MUI - Context Api - Custom Components - React Router Dom - DayJs - Toastify | ![Alt text](filterpage.png)
